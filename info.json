@@ -6,7 +6,7 @@
     "label": "SOAR Framework",
     "dependencies": [],
     "prerequisite": null,
-    "publisher": "Fortinet",
+    "publisher": "Cybersponse",
     "certified": "true",
     "description": "The SOAR Framework Solution Pack enables users to experience the power of FortiSOAR incident response.",
     "help": "https://github.com/fortinet-fortisoar/solution-pack-soar-framework/blob/develop/README.md",
